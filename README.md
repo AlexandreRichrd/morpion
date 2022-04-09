@@ -1,2 +1,2 @@
 # morpion
-Je du morpion à 2 joueurs
+Jeu du morpion à 2 joueurs
